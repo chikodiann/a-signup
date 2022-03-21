@@ -1,0 +1,100 @@
+.container {
+    background-color: #ccddfc;
+    margin: 10%;
+}
+
+.pddin {
+    padding: 2%;
+}
+
+.ctext {
+    padding-left: 40%;
+    font-weight: bold;
+}
+
+.row {
+    padding: 3%;
+    padding-left: 30%;
+}
+
+.fbtn {
+    margin-left: 47%;
+}
+
+.col-md-4 {
+    height: 215px;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 0;
+}
+
+.no_border {
+    border: transparent;
+    background-color: inherit;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    margin-left: 8px;
+    padding-bottom: 8px;
+}
+
+.cng {
+    color: green;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.cng2 {
+    color: white;
+    margin-top: 20px;
+}
+
+.cng3 {
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.lg1 {
+    font-size: 20px;
+}
+
+.lg2 {
+    font-size: 20px;
+}
+
+.pink {
+    background: palevioletred;
+    width: 248px;
+    border: transparent;
+    margin-left: -14px;
+    height: 60px;
+    color: rgb(238, 232, 232);
+}
+
+.white {
+    background: white;
+    width: 248px;
+    border: transparent;
+    margin-left: -3px;
+    height: 60px;
+    color: orangered;
+}
+
+.wb {
+    border: 1px solid white;
+    
+}
+
+.col-4 {
+    margin: 10px;
+    text-align: center;
+}
+
+.wicon {
+    border: transparent;
+    background-color: inherit;
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+    margin-left: 8px;
+    padding-bottom: 8px;
+}
